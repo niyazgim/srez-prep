@@ -8,7 +8,7 @@
     </ul>
     <ul class="header__btns">
       <li>
-        <form action="/user/logout" method="post">
+        <form class="button_form" action="/user/logout" method="post">
           <button class="btn">
             Log out
           </button>
