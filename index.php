@@ -6,5 +6,4 @@
   <?php include_once('views/pages/home.php') ?>
   <?php include_once('views/components/footer.php') ?>
 </body>
-
 </html>
